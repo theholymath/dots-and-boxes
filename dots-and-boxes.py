@@ -1,8 +1,6 @@
 # Ryan Croke, 4-10-2019
 """
 This is a refactor of some code I found on the internet sorry, no attribution :(
-It is intended to be used to build a reinforcement learning algorithm
-to master dots and boxes as has been done over and over for tic-tac-toe
 """
 import tkinter as tk
 from tkinter import font, messagebox
